@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Surfbait</string>
+    <string name="title_honolii">Honoli\'\i</string>
+    <string name="title_hapuna">H\u0101puna</string>
+    <string name="title_map">Map</string>
+    <string name="logo_msw">MSW Logo</string>
+    <string name="wind_unit">MPH</string>
+    <string name="beach_honolii">Honoli\'\i Beach</string>
+    <string name="beach_hapuna">H\u0101puna Beach</string>
+</resources>
