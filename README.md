@@ -1,6 +1,6 @@
 # Surfbait
 
-For the AlgoExpert software engineering project contest, I create a mobile app that shows the surf forecast for Honoli’i and Hapuna Beach on the Big Island of Hawaii.
+For the AlgoExpert software engineering project contest, I created a mobile app that shows the surf forecast for Honoli’i and Hapuna Beach on the Big Island of Hawaii.
 
 The app is called Surfbait. 
 
